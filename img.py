@@ -4,9 +4,7 @@ from imgtoascii import CLUT
 FRAME = 1
 """
 This section includes code I stole from
-https://gist.github.com/A2x2/b1b27b15b0590d36351b9b19ce25a04e,
-which is a modified version of
-https://gist.github.com/puhitaku/7eaf6142fa5a42425f55
+https://gist.github.com/A2x2/b1b27b15b0590d36351b9b19ce25a04e
 I DO NOT OWN THIS SECTION OF CODE
 """
 # <----------------Start of code I stole---------------->
